@@ -9,7 +9,7 @@
     "test": "mocha -r ts-node/register src/**/*.spec.ts",
     "release": "git checkout releases && git merge master && npm run build && npm prune --production && git commit -a -m 'prepared production release'"
   },
-  "author": "Mario Felipe Luevano Villagomez",
+  "author": "Nick Merwin (nick@coveralls.io)",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.7",
