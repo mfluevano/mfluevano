@@ -16,7 +16,6 @@
     "@types/dedent": "^0.7.0",
     "@types/mocha": "^5.2.7",
     "@types/node": "^13.9.2",
-    "@types/request": "^2.48.4",
     "chai": "^4.2.0",
     "dedent": "^0.7.0",
     "mocha": "^6.2.0",
@@ -30,6 +29,5 @@
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.4",
     "coveralls": "^3.1.1",
-    "request": "^2.88.0"
   }
 }
