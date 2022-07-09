@@ -1,2 +1,4 @@
-- name: Coveralls GitHub Action
-  uses: coverallsapp/github-action@1.1.3
+repo_token: ledtlclkrsRp6al36ljYGujB5nHjdzwYj
+service_name: circle-ci
+status: false
+pr_comment: detailed
