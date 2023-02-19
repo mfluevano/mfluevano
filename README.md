@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/63d6ed00-3126-4391-a5c4-c59cea3f504a.svg)](https://wakatime.com/@63d6ed00-3126-4391-a5c4-c59cea3f504a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfluevano&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 .
 I am a Fullstack developer, I have more than 15 years of experience in different areas of Information Technology
